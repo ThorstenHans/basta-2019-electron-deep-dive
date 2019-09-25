@@ -1,0 +1,18 @@
+{
+    "name": "electron-testing",
+    "version": "0.0.1",
+    "description": "Example how to use spectron for testing electorn apps",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [],
+    "author": "Thorsten Hans <thorsten.hans@gmail.com> (https://thorsten-hans.com/)",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^6.0.10",
+        "mocha": "^5.1.1",
+        "spectron": "^8.0.0"
+    },
+    "dependencies": {}
+}

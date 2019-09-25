@@ -1,0 +1,8 @@
+{
+    "name": "basta-2019-ux",
+    "version": "1.0.0",
+    "main": "main.js",
+    "dependencies": {
+        "electron-store": "^1.3.0"
+    }
+}
